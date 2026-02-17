@@ -10,7 +10,7 @@ This repository collects my **Excel data analysis study projects**.
 
 ## Repository structure
 Each project is stored in its own folder and includes:
-- `data/` (original or anonymized datasets, if shareable)
+- `data/` (dataset)
 - `work/` (working Excel files)
 - `output/` (reports, dashboard screenshots, exports)
 - `notes.md` (steps, assumptions, metrics, conclusions)

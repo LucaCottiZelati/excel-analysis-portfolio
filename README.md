@@ -4,7 +4,7 @@ This repository collects my **Excel data analysis study projects**.
 
 ## What you’ll find here
 - Exploratory Data Analysis (EDA) and data quality checks  
-- Data cleaning and transformations (formulas, Power Query if used)  
+- Data cleaning and transformations 
 - Pivot tables and reporting  
 - Dashboards (charts, KPIs, layout)
 

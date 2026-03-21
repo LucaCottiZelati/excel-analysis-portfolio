@@ -26,10 +26,4 @@
 | KPI_P_2  | Sales by Color         | Distribution of sales by car color               |Dashboard + KPIs selection|
 | KPI_P_3  | Sales by Horsepower    | Analysis of sales by horsepower range            |Dashboard + KPIs selection|
 
-## Geographic Analysis (G-series)
 
-| KPI ID   | KPI Name                      | Description                                      |Use             |
-|----------|------------------------------|--------------------------------------------------|-----------------|
-| KPI_G_1  | Sales by Region              | Total sales in each region                       |KPIs selection   |
-| KPI_G_2  | Revenue by Region            | Total revenue generated in each region           |KPIs selection   |
-| KPI_G_3  | Best-Selling Model by Region | Most sold car model in each region               |KPIs selection   |

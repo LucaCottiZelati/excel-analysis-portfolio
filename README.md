@@ -17,7 +17,7 @@ Each project is stored in its own folder and includes:
 ## Project list
 | Project | Topic | Techniques | Status | Project's guide |
 |--------|-------|------------|--------|----------|
-| Luxury Vehicle Sales Analysis | Lamborghini Sales  |  Pivot, Dashboard  | 🚧 in progress | Lamborghini_Sales/notes.md |
+| Luxury Vehicle Sales Analysis | Lamborghini Sales  |  Pivot, Dashboard  | 🚧 in progress | Lamborghini_Sales/Guide.md |
 
 
 ## Dataset notes

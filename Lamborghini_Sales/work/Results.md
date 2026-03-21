@@ -1,103 +1,102 @@
-## 📊 Analisi delle vendite Lamborghini (2020–2025)
+## 📊 Lamborghini Sales Analysis (2020–2025)
 
-L’analisi mostra un’evoluzione molto interessante nel tempo, con dinamiche diverse a seconda dei periodi.
+The analysis shows a very interesting evolution over time, with different dynamics depending on the period.
 
-Se guardiamo il lungo periodo, quindi dal **2020 al 2025**, emergono subito alcuni trend molto chiari:
+Looking at the long-term perspective, from **2020 to 2025**, some clear trends immediately emerge:
 
-- le vendite crescono fino a raggiungere un picco nel **2024**, per poi calare nel **2025**
-- la **Urus** è il modello dominante sia in termini di volumi sia in termini di ricavi
-- il mercato **Americas** è quello che genera più revenue
-- fino al **2023** c’è una forte predominanza di motorizzazioni tradizionali
-- il **nero** è il colore più scelto dai clienti
-- la maggior parte delle auto vendute si concentra intorno ai **641 HP**
+- sales grow until reaching a peak in **2024**, followed by a decline in **2025**
+- the **Urus** dominates both in terms of volume and revenue
+- the **Americas** market generates the highest revenue
+- until **2023**, there is a strong dominance of traditional combustion engines
+- **black** is the most preferred color among customers
+- most cars sold cluster around **641 HP**
 
-Attraverso la dashboard è possibile monitorare l’evoluzione delle vendite nel tempo e osservare come cambiano prodotti, ricavi e preferenze dei clienti.
-
-![dashboard_2020_2025](https://github.com/user-attachments/assets/75271650-ac99-4eab-9c83-ff13a23a51de)
-
+Through the dashboard, it is possible to monitor how sales evolve over time and understand changes in products, revenue, and customer preferences.
+![dashboard_2020_2025](https://github.com/user-attachments/assets/e8c20999-d2cd-4ea1-be07-640714d5c908)
 
 ---
 
-## 📅 Analisi per bienni
+## 📅 Period Analysis
 
 ### 2020–2021
 
-Nel biennio **2020–2021** si osserva una crescita solida.  
-Le vendite passano da **20.250** a **21.925**, con un aumento di circa l’**8%** rispetto all’anno precedente. I ricavi crescono ancora di più, segnando un **+12%**.
+In the **2020–2021** period, we observe solid growth.  
+Sales increase from **20,250** to **21,925**, representing about an **8%** growth compared to the previous year. Revenue grows even more, reaching **+12%**.
 
-In questa fase emerge già molto chiaramente il ruolo centrale della **Lamborghini Urus**.  
-È infatti il modello che genera sia il maggior numero di vendite sia i ricavi più alti, nonostante non sia il più costoso. Il suo prezzo medio di vendita, variabile in base al mercato, si aggira intorno ai **237.500 dollari**, circa la metà rispetto all’**Aventador**, che nello stesso periodo rappresenta il modello più costoso con un prezzo medio di circa **560.000 dollari**.
+In this phase, the central role of the **Lamborghini Urus** already becomes clear.  
+It is the model generating both the highest sales volume and the highest revenue, despite not being the most expensive one. Its average selling price is around **$237,500**, roughly half of the **Aventador**, which is the most expensive model in the same period (around **$560,000**).
 
-Dal punto di vista del prodotto, in questo biennio il mercato è ancora interamente dominato da motorizzazioni tradizionali. Sul lato estetico, invece, il **nero** risulta essere il colore nettamente preferito dai clienti.
+From a product perspective, the market is still fully dominated by traditional combustion engines. From an aesthetic point of view, **black** is by far the most popular color.
 
 ---
 
 ### 2021–2022
 
-Nel biennio **2021–2022** il trend positivo prosegue senza particolari rotture rispetto alla fase precedente.
+In the **2021–2022** period, the positive trend continues without major changes.
 
-Le vendite crescono di quasi l’**11%**, confermando una dinamica espansiva. Anche in questo periodo la **Urus** si conferma il modello principale e continua a rappresentare il vero pilastro del business.
+Sales grow by nearly **11%**, confirming a strong expansion phase. Once again, the **Urus** remains the key model and continues to represent the backbone of the business.
 
-Questa fase può quindi essere letta come una crescita lineare e stabile, in cui la casa automobilistica continua a beneficiare della forza commerciale del suo SUV di punta.
+This phase can therefore be described as steady and consistent growth, driven by the strong commercial performance of the SUV segment.
 
 ---
 
 ### 2022–2023
 
-Nel biennio **2022–2023** il quadro resta positivo, ma iniziano a comparire i primi segnali di rallentamento.
+In the **2022–2023** period, the overall picture remains positive, but the first signs of slowdown appear.
 
-Le vendite crescono infatti solo del **2%**. Si tratta ancora di un risultato positivo, ma nettamente inferiore rispetto alla crescita registrata negli anni precedenti.
+Sales increase by only **2%**. While still positive, this is significantly lower than in previous years.
 
-Osservando il trend **year-over-year**, si nota con chiarezza che la crescita è in progressiva diminuzione. Questo suggerisce che il mercato stia entrando in una fase meno dinamica, con segnali di rallentamento che potrebbero indicare una maturazione della domanda o una minore capacità dei modelli esistenti di sostenere ulteriormente il ritmo di crescita.
+Looking at the **year-over-year trend**, it becomes clear that growth is gradually declining. This suggests that the market may be entering a more mature phase, with reduced expansion momentum.
 
 ---
 
 ### 2023–2024
 
-Il biennio **2023–2024** rappresenta il vero punto di svolta dell’analisi.
+The **2023–2024** period represents a major turning point.
 
-Per rilanciare le vendite e dare nuovo impulso al brand, avvengono alcuni cambiamenti strategici molto importanti:
+To boost sales and refresh the product lineup, several strategic changes are introduced:
 
-- la **Urus** viene aggiornata e diventa **Urus SE**
-- viene eliminata l’**Aventador**
-- viene introdotto un nuovo modello, la **Revuelto**, che prende il posto del top di gamma storico
+- the **Urus** is updated and becomes **Urus SE**
+- the **Aventador** is discontinued
+- a new model, the **Revuelto**, is introduced as the new flagship
 
-Il restyling della Urus ha un impatto immediato.  
-La nuova versione passa a una motorizzazione ibrida e registra un aumento del prezzo medio di vendita di circa il **21%**, contribuendo a rafforzare ulteriormente il peso del modello nel business complessivo.
+The Urus restyling has an immediate impact.  
+The new version transitions to a hybrid powertrain and increases its average selling price by about **21%**, further strengthening its role in the overall business.
 
-La vera protagonista di questo biennio, però, è la **Revuelto**.  
-Questo modello sostituisce l’Aventador, ma entra sul mercato con un prezzo inferiore di circa il **22%** e con una motorizzazione ibrida. Questa combinazione sembra aver reso il modello più attrattivo e più coerente con una clientela sensibile al tema della transizione ecologica.
+However, the real standout of this period is the **Revuelto**.  
+It replaces the Aventador but enters the market with a price approximately **22% lower** and with a hybrid engine. This combination likely makes it more appealing and aligned with customers who are increasingly sensitive to sustainability.
 
-Il risultato è particolarmente interessante: le vendite della **Revuelto nel solo 2024** superano la somma delle vendite dell’**Aventador** negli anni **2022 e 2023**.
+The result is particularly impressive: **Revuelto sales in 2024 alone exceed the combined Aventador sales of 2022 and 2023**.
 
-Anche dal punto di vista estetico emergono differenze interessanti.  
-La **Urus**, in tutte le sue versioni, continua a essere preferita soprattutto in **nero**, mentre modelli come **Revuelto** e **Aventador** risultano più spesso scelti in **bianco**. Questo suggerisce la presenza di preferenze diverse tra clienti SUV e clienti supercar.
+There are also interesting differences in color preferences.  
+The **Urus** continues to be mostly chosen in **black**, while models like **Revuelto** and **Aventador** are more often selected in **white**, suggesting different customer profiles between SUV and supercar buyers.
 
-L’introduzione dei modelli ibridi ha inoltre un impatto molto forte sui ricavi, che crescono del **33% rispetto al 2023**.
+The introduction of hybrid models also has a strong impact on revenue, which increases by **33% compared to 2023**.
 
 ---
 
 ### 2024–2025
 
-Nel biennio **2024–2025** si osserva invece un’inversione di tendenza.
+In the **2024–2025** period, we observe a reversal of the trend.
 
-Dopo il forte slancio del 2024, le vendite calano del **9%** rispetto all’anno precedente. Per cercare di replicare il successo ottenuto con la Revuelto, viene introdotta una nuova versione ibrida della Huracán, la **Temerario**. Tuttavia, in questo caso l’effetto atteso non si realizza con la stessa intensità.
+After the strong growth in 2024, sales decline by **9%** compared to the previous year. To replicate the success of the Revuelto, Lamborghini introduces a hybrid version of the Huracán, the **Temerario**. However, the expected effect does not materialize to the same extent.
 
-Il mercato non reagisce nello stesso modo e il tentativo di ripetere la spinta generata dal lancio della Revuelto non produce risultati comparabili.
+The market response is weaker, and the attempt to reproduce the same growth dynamics is not as successful.
 
-Anche in questo contesto, però, è ancora la **Urus SE** a trainare in modo significativo sia le vendite sia i ricavi, confermando ancora una volta il suo ruolo centrale all’interno del portafoglio prodotti.
+Even in this phase, the **Urus SE** continues to play a key role, driving both sales and revenue and confirming once again its central importance within the product portfolio.
 
 ---
 
-## 📌 Conclusioni
+## 📌 Conclusions
 
-Nel complesso, l’analisi evidenzia come il business sia stato sostenuto in modo costante dalla **Urus**, che si conferma il modello più importante sia per volumi sia per revenue.
+Overall, the analysis highlights how the business is consistently driven by the **Urus**, which remains the most important model in terms of both volume and revenue.
 
-Allo stesso tempo, emerge che l’innovazione di prodotto — in particolare l’introduzione dell’ibrido — ha avuto un impatto molto forte, ma non uniforme su tutti i modelli.  
-Nel caso della **Revuelto**, il cambiamento ha generato un effetto molto positivo, mentre nel caso della **Temerario** non è riuscito a replicare lo stesso risultato.
+At the same time, product innovation — especially hybridization — has a strong but uneven impact across models.  
+In the case of the **Revuelto**, it leads to a significant boost in performance, while in the case of the **Temerario**, it does not replicate the same success.
 
-In sintesi, il progetto mostra come la crescita del brand sia stata trainata da un mix di:
-- continuità commerciale della **Urus**
-- innovazione di gamma
-- introduzione graduale di motorizzazioni ibride
-- differenziazione delle preferenze per modello e mercato
+In summary, the project shows that the brand’s growth is driven by a combination of:
+
+- the commercial strength of the **Urus**
+- product innovation
+- gradual introduction of hybrid technologies
+- differences in customer preferences across models and markets

@@ -13,6 +13,9 @@ Se guardiamo il lungo periodo, quindi dal **2020 al 2025**, emergono subito alcu
 
 Attraverso la dashboard è possibile monitorare l’evoluzione delle vendite nel tempo e osservare come cambiano prodotti, ricavi e preferenze dei clienti.
 
+![dashboard_2020_2025](https://github.com/user-attachments/assets/75271650-ac99-4eab-9c83-ff13a23a51de)
+
+
 ---
 
 ## 📅 Analisi per bienni

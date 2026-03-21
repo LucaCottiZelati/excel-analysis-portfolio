@@ -1,5 +1,5 @@
-# Lamborghini Sales
-🏎️ Luxury Vehicle Sales Analysis (2020–2025)
+# 🏎️ Luxury Vehicle Sales Analysis (2020–2025) 
+
 📌 Overview
 
 This project analyzes a dataset of luxury vehicle sales (2020–2025) to identify key trends in product performance, pricing, and demand.

@@ -1,4 +1,4 @@
-# KPI Setup
+# KPIs used for creating the dashboard
 
 ## Sales Performance (V-series)
 

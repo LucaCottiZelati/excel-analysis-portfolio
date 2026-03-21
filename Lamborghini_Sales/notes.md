@@ -17,7 +17,7 @@ The analysis aims to answer key business questions such as:
 - What insights can support better pricing and sales strategies?
   
 🛠️ Tools Used
-- Excel ( data analysis, pivot tables, chartd, dashboard)
+- Excel ( data analysis, pivot tables, charts, dashboard)
 
 
 🔍 Analysis Process

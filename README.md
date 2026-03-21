@@ -18,7 +18,7 @@ Each project is stored in its own folder and includes:
 ## Project list
 | Project | Topic | Techniques | Status |
 |--------|-------|------------|--------|
-| Luxury Vehicle Sales Analysis |   |    | 🚧 in progress |
+| Luxury Vehicle Sales Analysis | Lamborghini Sales  |    | 🚧 in progress |
 
 ## How to use the files
 1. Open the project folder  

@@ -1,1 +1,31 @@
+# KPI Setup
+1. Sales Performance (V-series)
 
+These KPIs measure the overall sales performance.
+
+KPI_V_1: Total Sales – Total number of cars sold
+KPI_V_2: Sales by Year – Analysis of sales trends over time
+KPI_V_3: Sales by Model – Comparison between different car models
+2. Revenue Analysis (R-series)
+
+These indicators measure the financial performance of sales.
+
+KPI_R_1: Total Revenue
+Revenue = Base Price × Sales Volume
+KPI_R_2: Revenue by Model
+KPI_R_3: Revenue by Region
+KPI_R_4: Average Car Price
+3. Product Analysis (P-series)
+
+These KPIs analyze technical features and customer preferences.
+
+KPI_P_1: Sales by Fuel Type
+KPI_P_2: Sales by Color
+KPI_P_3: Sales by Horsepower
+4. Geographic Analysis (G-series)
+
+These KPIs analyze the distribution of sales across different regions.
+
+KPI_G_1: Sales by Region
+KPI_G_2: Revenue by Region
+KPI_G_3: Best-Selling Model by Region

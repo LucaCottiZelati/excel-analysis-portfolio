@@ -12,7 +12,8 @@ Looking at the long-term perspective, from **2020 to 2025**, some clear trends i
 - most cars sold cluster around **641 HP**
 
 Through the dashboard, it is possible to monitor how sales evolve over time and understand changes in products, revenue, and customer preferences.
-![dashboard_2020_2025](https://github.com/user-attachments/assets/e8c20999-d2cd-4ea1-be07-640714d5c908)
+![gif_dash](https://github.com/user-attachments/assets/bdb58ddc-0b15-4704-a7fa-9ed50c6fef96)
+
 
 ---
 

@@ -1,38 +1,49 @@
-🏎️ Luxury Vehicle Sales Analysis (2020–2025)
+# 🏎️ Luxury Vehicle Sales Analysis (2020–2025)
 
-📌 Overview
+## 📌 Overview
 
-This project analyzes a dataset of luxury vehicle sales from 2020 to 2025, aiming to identify key trends related to:
-Product performance
-Pricing
-Market demand
+This project analyzes a dataset of luxury vehicle sales from 2020 to 2025, with the goal of identifying key trends in:
+
+- Product performance  
+- Pricing dynamics  
+- Market demand  
 
 The analysis simulates a real-world business scenario where data is used to support strategic decisions in sales and pricing.
 
-🎯 Business Objective
+---
 
-The analysis is designed to answer key business questions:
-Which models generate the highest sales volume?
-How have sales evolved over time?
-What is the relationship between price and demand?
-Which segments or configurations perform best?
-What insights can support more effective sales and pricing strategies?
+## 🎯 Business Objective
 
-🛠️ Tools Used
+The project is designed to answer the following key business questions:
 
-Excel
-Pivot Tables
-Charts
-Dashboard
+- Which models generate the highest sales volume?  
+- How have sales evolved over time?  
+- What is the relationship between price and demand?  
+- Which segments or configurations perform best?  
+- What insights can support more effective sales and pricing strategies?  
 
-🔍 Analysis Process
+---
 
-1. Data Aggregation & Insight Generation
+## 🛠️ Tools Used
+
+- Microsoft Excel  
+- Pivot Tables  
+- Charts  
+- Interactive Dashboard  
+
+---
+
+## 🔍 Analysis Process
+
+### 1. Data Aggregation & Insight Generation  
 Data was analyzed using Pivot Tables to identify key KPIs and uncover business trends.
-2. Dashboard Creation
+
+### 2. Dashboard Creation  
 Key insights were translated into an interactive dashboard, designed to provide a clear and immediate view of sales performance.
 
-📂 Project Files
+---
 
-- KPIs_Selection → KPI definition and selection for analysis and dashboard
-- Results.md → Summary of key findings and insights
+## 📂 Project Files
+
+- **KPIs_Selection** → KPI definition and selection for analysis and dashboard  
+- **Results.md** → Summary of key findings and business insights  

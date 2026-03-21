@@ -16,9 +16,9 @@ Each project is stored in its own folder and includes:
 - `notes.md` (steps, assumptions, metrics, conclusions)
 
 ## Project list
-| Project | Topic | Techniques | Status |
-|--------|-------|------------|--------|
-| Luxury Vehicle Sales Analysis | Lamborghini Sales  |  Pivot, Dashboard  | 🚧 in progress |
+| Project | Topic | Techniques | Status | Project's guide |
+|--------|-------|------------|--------|----------|
+| Luxury Vehicle Sales Analysis | Lamborghini Sales  |  Pivot, Dashboard  | 🚧 in progress | Lamborghini_Sales/notes.md |
 
 ## How to use the files
 1. Open the project folder  

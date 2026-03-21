@@ -1,17 +1,17 @@
 🏎️ Luxury Vehicle Sales Analysis (2020–2025)
 📌 Overview
 
-This project analyzes a dataset of luxury vehicle sales from 2020 to 2025, with the goal of identifying key trends related to:
+This project analyzes a dataset of luxury vehicle sales from 2020 to 2025, aiming to identify key trends related to:
 
-product performance
-pricing
-market demand
+Product performance
+Pricing
+Market demand
 
-The analysis simulates a real-world business scenario in which data is used to support strategic decisions in sales and pricing.
+The analysis simulates a real-world business scenario where data is used to support strategic decisions in sales and pricing.
 
 🎯 Business Objective
 
-The analysis was developed to answer key questions, including:
+The analysis is designed to answer key business questions:
 
 Which models generate the highest sales volume?
 How have sales evolved over time?
@@ -24,13 +24,14 @@ Pivot Tables
 Charts
 Dashboard
 🔍 Analysis Process
-1. Data Aggregation and Insight Generation
+1. Data Aggregation & Insight Generation
 
-The data was analyzed using pivot tables to identify relevant KPIs and business trends.
+Data was analyzed using Pivot Tables to identify key KPIs and uncover business trends.
 
 2. Dashboard Creation
 
-The main insights were then translated into an interactive dashboard, designed to provide a clear and immediate view of sales performance.
+Key insights were translated into an interactive dashboard, designed to provide a clear and immediate view of sales performance.
 
-To see which KPIs were selected for both the analysis and the dashboard, refer to the KPIs_Selection file.
-The results of the analysis are available in the Results.md file.
+📂 Project Files
+KPIs_Selection → KPI definition and selection for analysis and dashboard
+Results.md → Summary of key findings and insights

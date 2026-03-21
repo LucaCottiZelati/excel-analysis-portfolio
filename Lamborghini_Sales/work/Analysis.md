@@ -10,7 +10,7 @@
 | 2023 | 25,838 |
 | 2024 | 27,918 |
 | 2025 | 21,200 |
-| **Total** | **141,374** |
+| Total | 141,374 |
 
 - 📈 **Highest Sales Year:** 2024  
 - 📉 **Lowest Sales Year:** 2020  
@@ -27,7 +27,7 @@
 | Urus SE | 26,812 |
 | Huracán | 41,481 |
 | Urus | 54,305 |
-| **Total** | **141,374** |
+| Total | 141,374 |
 
 - 🏆 **Best-selling Model:** Urus  
 - 🔻 **Least-selling Model:** Huracán (Temerario)  
@@ -44,7 +44,7 @@
 | Urus SE | 8.619 |
 | Huracán | 11.603 |
 | Urus | 13.277 |
-| **Total** | **43.190** |
+| Total | 43.190 |
 
 - 💎 **Highest Revenue Model:** Urus  
 - 🔻 **Lowest Revenue Model:** Huracán (Temerario)  
@@ -58,7 +58,7 @@
 | Americas | 17.225 |
 | APAC | 10.003 |
 | EMEA | 15.962 |
-| **Total** | **43.190** |
+| Total | 43.190 |
 
 - 🌎 **Top Revenue Region:** Americas  
 
@@ -70,7 +70,7 @@
 |----------|------------|
 | Gasoline | 71.98% |
 | Hybrid | 28.02% |
-| **Total** | **100.00%** |
+| Total | 100.00% |
 
 - 🔥 **Most Sold Fuel Type:** Gasoline  
 
@@ -89,7 +89,7 @@
 | Orange | 17,700 |
 | White | 28,943 |
 | Black | 44,900 |
-| **Total** | **141,374** |
+| Total | 141,374 |
 
 - 🎯 **Most Popular Color:** Black  
 
@@ -104,7 +104,7 @@
 | 1001 | 8,956 |
 | 631 | 41,481 |
 | 641 | 81,117 |
-| **Total** | **141,374** |
+| Total | 141,374 |
 
 - 🚀 **Most Sold Horsepower:** 641 HP  
 

@@ -1,6 +1,6 @@
 # 📊 Sales and Revenue Analysis
 
-## 🔹 Pivot 1: Sales Distribution Over Time
+## 🔹 KPI_V_2: Sales Distribution Over Time
 
 | Year | Sales Volume |
 |------|-------------|
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚗 Pivot 2: Sales by Car Model
+## 🚗 KPI_V_3: Sales by Car Model
 
 | Model | Sales Volume |
 |------|-------------|
@@ -34,7 +34,7 @@
 
 ---
 
-## 💰 Pivot 3: Revenue by Model
+## 💰 KPI_R_2: Revenue by Model
 
 | Model | Revenue (million €) |
 |------|--------------------|
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌍 Pivot 4: Revenue by Geographic Area
+## 🌍 KPI_R_3: Revenue by Geographic Area
 
 | Geographic Market | Revenue (million €) |
 |------------------|--------------------|
@@ -64,7 +64,7 @@
 
 ---
 
-## ⛽ Sales Analysis by Fuel Type
+## ⛽ KPI_P_1: Sales Analysis by Fuel Type
 
 | Fuel Type | Sales Share |
 |----------|------------|
@@ -76,7 +76,7 @@
 
 ---
 
-## 🎨 Sales Analysis by Car Color
+## 🎨 KPI_P_2: Sales Analysis by Car Color
 
 | Color | Sales Volume |
 |------|-------------|
@@ -95,7 +95,7 @@
 
 ---
 
-## ⚙️ Sales Analysis by Horsepower
+## ⚙️ KPI_P_3: Sales Analysis by Horsepower
 
 | Horsepower | Sales Volume |
 |-----------|-------------|

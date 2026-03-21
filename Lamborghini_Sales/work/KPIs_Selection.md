@@ -108,13 +108,4 @@
 
 - 🚀 **Most Sold Horsepower:** 641 HP  
 
----
-
-## 📌 Key Insights
-
-- 📊 Sales peaked in **2024**, followed by a decline in 2025  
-- 🚗 **Urus dominates** both sales and revenue  
-- 🌍 **Americas market leads** global revenue  
-- ⛽ Strong dominance of **gasoline vehicles**  
-- 🎨 **Black is the preferred color** among buyers  
-- ⚙️ Majority of cars sold cluster around **641 HP**
+ 

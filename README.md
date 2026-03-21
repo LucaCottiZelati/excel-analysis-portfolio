@@ -12,19 +12,14 @@ This repository collects my **Excel data analysis study projects**.
 Each project is stored in its own folder and includes:
 - `data/` (dataset)
 - `work/` (working Excel files)
-- `output/` (reports, dashboard screenshots, exports)
-- `notes.md` (steps, assumptions, metrics, conclusions)
+- `Guide.md` (steps, assumptions, metrics)
+- `Results.md` (final results)
 
 ## Project list
 | Project | Topic | Techniques | Status | Project's guide |
 |--------|-------|------------|--------|----------|
 | Luxury Vehicle Sales Analysis | Lamborghini Sales  |  Pivot, Dashboard  | 🚧 in progress | Lamborghini_Sales/notes.md |
 
-## How to use the files
-1. Open the project folder  
-2. Open the file inside `work/`  
-3. Read `notes.md` to understand goals, steps, and results  
 
 ## Dataset notes
 All analyzed datasets are public.  
-The data source will be included within each project.

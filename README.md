@@ -8,7 +8,6 @@ This repository collects my **Excel data analysis study projects**.
 - Dashboards (charts, KPIs, layout)
 
 ## Repository structure
-Each project is stored in its own folder and includes:
 - `data/` (dataset)
 - `work/` (working Excel files)
 - `Guide.md` (steps, assumptions, metrics)

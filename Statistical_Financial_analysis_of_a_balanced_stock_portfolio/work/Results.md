@@ -64,6 +64,10 @@ Volatility estimates confirm a clear trade-off between return and risk:
 NVIDIA has by far the highest volatility, which is consistent with its higher return and much stronger cumulative growth path.  
 MSFT appears to be the most stable stock in the sample, while the portfolio sits between the low-volatility assets and NVIDIA.
 
+To further compare the risk profiles of the selected assets, the following chart shows the standard deviation of returns for each stock and for the portfolio. The visualization confirms that NVIDIA is the most volatile asset, while Microsoft is the most stable, with the portfolio positioned between individual stocks thanks to diversification:
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/dff90b61-ca47-4ab7-82f0-c3477046ad00" />
+
+
 This supports the idea that **higher returns were associated with higher risk**, while diversification partially smoothed fluctuations.
 
 ---
@@ -97,6 +101,10 @@ Performance rebounded significantly in **2023** and remained strong in **2024**:
 - **MSFT:** `0.05%`
 - **NVDA:** `0.40%`
 - **Portfolio:** `0.18%`
+
+To further examine how performance changed over time, the following chart reports the average annual returns of each stock and of the portfolio. This visualization makes it easier to identify common downturns, recovery phases, and differences in yearly performance across assets:
+<img width="1211" height="638" alt="image" src="https://github.com/user-attachments/assets/99261f7e-fbea-4afa-8a18-d98cfe4191e3" />
+
 
 These two years appear to be the main contributors to long-run cumulative growth, especially due to NVIDIA’s exceptional performance.
 

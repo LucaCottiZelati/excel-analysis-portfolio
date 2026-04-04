@@ -112,11 +112,17 @@ These analyses help to study the time evolution of returns and risk.
 The project includes several charts:
 - Comparison of average returns  
 - Comparison of volatility  
-- Cumulative growth of an initial $1 investment  
+- Cumulative growth of an initial $1 investment
+
+---
+## Project Files
+Methodolgy.md →  explains the methodological framework used in the Excel project to analyze the performance of selected stocks and the portfolio. 
+
+Results.md →  This document presents the main findings of the analysis, focusing on return, volatility, statistical significance, and portfolio behavior over time.
 
 ---
 
-## ⚠️ Limitations
+## Project's limitations
 - Transaction costs are not considered  
 - The risk-free rate is not included  
 - Results depend on the selected time period  

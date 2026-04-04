@@ -18,7 +18,7 @@ Each project is stored in its own folder and includes:
 | Project | Topic | Techniques | Status | Project's guide |
 |--------|-------|------------|--------|----------|
 | Luxury Vehicle Sales Analysis | Lamborghini Sales  |  Pivot, Dashboard  | ✅ Complete | Lamborghini_Sales/Guide.md |
-| Statistical-Financial analysis of a balanced stock portfolio | AAPL, NVDA, MSFT  |  Pivot, Charts, Analysis  | in progress |  |
+| Statistical-Financial analysis of a balanced stock portfolio | AAPL, NVDA, MSFT  |  Pivot, Charts, Analysis  | in progress | Statistical_Financial_analysis_of_a_balanced_stock_portfolio/Guide.md |
 
 
 ## Dataset notes

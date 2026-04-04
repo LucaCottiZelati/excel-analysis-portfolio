@@ -10,6 +10,11 @@ Its return is also the **only one clearly statistically significant at the 5% le
 
 This suggests that NVIDIA was the main driver of portfolio performance and the asset with the strongest evidence of positive expected return in the sample.
 
+To complement the statistical results, the following chart shows the cumulative growth of a $1 investment in each stock and in the portfolio over time. This visualization makes it easier to compare the long-term evolution of performance, highlighting both the stronger growth trajectory of NVIDIA and the more stable path of the diversified portfolio.
+
+<img width="992" height="512" alt="image" src="https://github.com/user-attachments/assets/4a179d48-7699-4f28-972d-853cb63770a5" />
+
+
 ---
 
 ### 2. AAPL and MSFT had positive average returns, but no strong statistical significance

@@ -120,6 +120,8 @@ Methodolgy.md →  explains the methodological framework used in the Excel proje
 
 Results.md →  This document presents the main findings of the analysis, focusing on return, volatility, statistical significance, and portfolio behavior over time.
 
+Stock_USA_Analysis → file Excel
+
 ---
 
 ## Project's limitations

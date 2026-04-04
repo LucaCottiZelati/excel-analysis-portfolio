@@ -1,4 +1,4 @@
-# 📄 Project Structure and Methodology
+# 📄 Methodology
 
 ## 🔹 1. Data Collection – *Data Sheet*
 This sheet contains the historical prices of the selected assets.  

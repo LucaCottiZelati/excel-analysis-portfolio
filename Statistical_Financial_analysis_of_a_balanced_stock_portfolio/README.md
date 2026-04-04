@@ -40,10 +40,8 @@ Prices are transformed into daily returns before the analysis.
 
 ### Returns
 Daily returns are calculated as log returns:
+r_t = ln(P_t / P_(t-1))
 
-\[
-r_t = \ln\left(\frac{P_t}{P_{t-1}}\right)
-\]
 
 This transformation is preferred in finance because log returns are additive over time and have better statistical properties.
 
@@ -63,14 +61,12 @@ All analyses are conducted on returns, not prices.
 ### Statistical Test
 A one-tailed t-test is performed to verify:
 
-- **H₀:** μ = 0  
-- **H₁:** μ > 0  
+- H0: μ = 0  
+- H1: μ > 0  
 
 The t-statistic is calculated as:
+t = mean / standard error
 
-\[
-t = \frac{\text{mean}}{\text{standard error}}
-\]
 
 The p-value is obtained from the Student’s t-distribution (right tail).
 
@@ -78,19 +74,17 @@ The p-value is obtained from the Student’s t-distribution (right tail).
 
 ### Confidence Interval
 The 95% confidence interval is calculated as:
+mean ± 1.96 × standard error
 
-\[
-\text{mean} \pm 1.96 \times \text{standard error}
-\]
+
 
 ---
 
 ### Portfolio
 The portfolio is constructed as the average of the daily returns of the three stocks:
+Portfolio_t = (AAPL_t + NVDA_t + MSFT_t) / 3
 
-\[
-Portfolio_t = \frac{AAPL_t + NVDA_t + MSFT_t}{3}
-\]
+
 
 This allows for the analysis of diversification effects.
 

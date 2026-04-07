@@ -43,6 +43,9 @@ Key insights were translated into an interactive dashboard, designed to provide 
 
 ---
 
+### Final Dashboard Preview
+![gif_dash](https://github.com/user-attachments/assets/85ab1266-c47f-453e-a8f6-d2e74bcf2b09)
+
 ## 📂 Project Files
 
 - **KPIs_Selection** → KPI definition and selection for analysis and dashboard  
